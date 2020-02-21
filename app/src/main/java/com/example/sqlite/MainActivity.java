@@ -65,6 +65,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    ///Update
     private void UpdateMe() {
 
         String id = txtId.getText().toString();
@@ -84,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    /// Delete
     private void DeleteMe() {
 
         String id = txtId.getText().toString();
